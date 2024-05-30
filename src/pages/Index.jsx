@@ -12,6 +12,7 @@ const Index = () => {
           Hi there! I'm excited to share my thoughts, experiences, and stories with you. Stay tuned for updates!
         </Text>
         <Link href="/about" color="teal.500" fontSize="lg">Learn more about me</Link>
+        <Link href="/new-post" color="teal.500" fontSize="lg">Create a new post</Link>
       </VStack>
     </Container>
   );
